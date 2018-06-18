@@ -19,7 +19,6 @@ To run this code, you'll need the following python librairies :
 * Nltk
 * Sklearn
 * Keras
-
 ### Datasets
 
 For this work, I used different datasets gathered online. You can find them here :
