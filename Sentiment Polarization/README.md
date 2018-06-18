@@ -19,12 +19,14 @@ To run this code, you'll need the following python librairies :
 * Nltk
 * Sklearn
 * Keras
+
 ### Datasets
 
 For this work, I used different datasets gathered online. You can find them here :
 * [Sentiment Labelled Sentences Data Set](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 * [Movie review Data Set](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 * [Books and Movies review](https://www.kaggle.com/c/si650winter11/data)
+
 ## Authors
 
 * **Robin Niel** - *Initial work* - [Arfineto](https://github.com/Arfineto)
