@@ -20,7 +20,7 @@ To run this code, you'll need the following python librairies :
 * Sklearn
 * Keras
 
-## Datasets
+### Datasets
 
 For this work, I used different datasets gathered online. You can find them here :
 * [Sentiment Labelled Sentences Data Set](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
@@ -33,7 +33,7 @@ I also used the already trained Word2Vec model over GoogleNews. The binaries to 
 
 * **Robin Niel** - *Initial work* - [Arfineto](https://github.com/Arfineto)
 
-See also the list of [contributors](https://github.com/Arfineto/NLP/Sentiment Polarizationcontributors) who participated in this project.
+See also the list of [contributors](https://github.com/Arfineto/NLP/tree/master/Sentiment%20Polarization/contributors) who participated in this project.
 
 ## Acknowledgments
 
