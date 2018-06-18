@@ -1,6 +1,6 @@
 # Sentiment Polarization
 
-One Paragraph of project description goes here
+This project was made to allow the classification of sentences into either positive or negative.
 
 ## Getting Started
 
