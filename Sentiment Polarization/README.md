@@ -20,7 +20,7 @@ To run this code, you'll need the following python librairies :
 * Sklearn
 * Keras
 
-### Datasets
+## Datasets
 
 For this work, I used different datasets gathered online. You can find them here :
 * [Sentiment Labelled Sentences Data Set](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
