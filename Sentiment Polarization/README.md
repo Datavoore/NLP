@@ -31,9 +31,9 @@ I also used the already trained Word2Vec model over GoogleNews. The binaries to 
 
 ## Authors
 
-* **Robin Niel** - *Initial work* - [Arfineto](https://github.com/Arfineto)
+* **Robin Niel** - *Initial work* - [Datavoore](https://github.com/Datavoore)
 
-See also the list of [contributors](https://github.com/Arfineto/NLP/tree/master/Sentiment%20Polarization/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Datavoore/NLP/tree/master/Sentiment%20Polarization/contributors) who participated in this project.
 
 ## Acknowledgments
 
