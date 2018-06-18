@@ -27,6 +27,8 @@ For this work, I used different datasets gathered online. You can find them here
 * [Movie review Data Set](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 * [Books and Movies review](https://www.kaggle.com/c/si650winter11/data)
 
+I also used the already trained Word2Vec model over GoogleNews. The binaries to use in the code are available here : [GoogleNews Word2Vec model](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
+
 ## Authors
 
 * **Robin Niel** - *Initial work* - [Arfineto](https://github.com/Arfineto)
